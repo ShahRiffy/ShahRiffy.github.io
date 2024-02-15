@@ -17,7 +17,7 @@ main:
     url: '#contact'
     weight: 40
   - name: Blog <i class="fas fa-external-link-alt"></i>
-    url: 'https://krash.dev/'
+    url: 'https://shahriffy.github.io/blog'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.

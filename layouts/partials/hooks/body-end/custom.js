@@ -3,7 +3,7 @@
 $('.fa-ul li i:first').removeClass("fas fa-envelope").addClass("far fa-envelope-open")
 
 // Lighten the firstname
-$('.navbar-brand').html("<div class='firstname' style='display:inline'>Kumar</div> Ashwin")
+$('.navbar-brand').html("<div class='firstname' style='display:inline'>Shahabor Hossain</div> Rifat")
 
 // Removes Footer
 $('.powered-by').last().html("")
